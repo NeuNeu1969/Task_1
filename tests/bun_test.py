@@ -20,3 +20,4 @@ class TestBun:
 
         # Проверка цены
         assert bun.get_price() == price
+        
